@@ -7,6 +7,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/mdn-data.svg)](https://www.npmjs.com/package/mdn-data)
 [![lint](https://github.com/mdn/data/actions/workflows/lint.yml/badge.svg)](https://github.com/mdn/data/actions/workflows/lint.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fdat.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fdat?ref=badge_shield)
 
 This repository contains general data for Web technologies and is maintained by the [MDN team at Mozilla](https://wiki.mozilla.org/MDN).
 
@@ -57,3 +58,7 @@ See the [CONTRIBUTING.md](./CONTRIBUTING.md) document for more information.
 
 - [https://github.com/mdn/browser-compat-data](https://github.com/mdn/browser-compat-data)
   for compatibility data for Web technologies
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fdat.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fdat?ref=badge_large)
